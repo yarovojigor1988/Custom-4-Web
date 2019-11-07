@@ -389,19 +389,13 @@ ul {
 }
 
 .footer_copy{
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 .footer_copy>span{
     text-transform: uppercase;
     font-weight: 500;
 }
-
-.footer_copy:last-child{
-    padding-bottom: 20px;
-}
-
-
 
 .footer_socials{
     display: flex;
